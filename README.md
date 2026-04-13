@@ -149,6 +149,6 @@ SERPAPI_API_KEY=your_key_here
 
  📌 Conclusion
 
-This project demonstrates how AI agents can combine **external data sources** with **LLMs** to provide meaningful, real-time insights — similar to real-world AI systems.
+This project demonstrates how AI agents can combine **external data sources** with **LLMs** to provide meaningful, real-time insights - similar to real-world AI systems.
 
 ---
