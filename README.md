@@ -121,7 +121,7 @@ SERPAPI_API_KEY=your_key_here
 ---
 
  📸 Demo
-![WhatsApp Image 2026-04-13 at 1 56 22 PM](https://github.com/user-attachments/assets/62cae11d-fcf1-4937-9699-77b558b8941d)
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/29047078-13c0-4285-9b82-69c35e942597" />
 <img width="936" height="553" alt="image" src="https://github.com/user-attachments/assets/a3917fbe-65ba-4816-b95e-96a16178eb6d" />
 <img width="1080" height="563" alt="image" src="https://github.com/user-attachments/assets/7574c899-7db6-4236-aaed-8b3a5ddd25c0" />
 <img width="1179" height="532" alt="image" src="https://github.com/user-attachments/assets/423678a8-17e9-47c4-a6c2-68568a783c1f" />
